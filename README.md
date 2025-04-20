@@ -1,0 +1,1 @@
+A simple feature flag platform that lets other developers integrate features into their apps.
